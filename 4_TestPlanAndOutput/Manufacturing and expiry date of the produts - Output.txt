@@ -1,0 +1,42 @@
+Enter number of items:
+1
+Item name: 
+Battery
+Item code: 
+5
+Quantity: 
+1
+price: 
+100
+Manufacturing date(dd-mm-yyyy): 
+11-10-2000
+
+
+ Please enter product expiry date!
+
+ Enter year = 
+2000
+
+
+ Enter month = 
+12
+
+
+ Enter day = 
+10
+*  INVENTORY * 
+-----------------------------------------------------------------
+S.N.|    NAME           |   CODE   |  QUANTITY |  PRIC| MFG.DATE 
+------------------------------------------------------------------
+1Battery        51    100  11/10/2000 
+------------------------------------------------------------------
+
+
+ Enter 5 to check product expiry date  = 
+5
+
+
+ Product date has been expired !!!
+
+
+** Process exited - Return Code: 0 **
