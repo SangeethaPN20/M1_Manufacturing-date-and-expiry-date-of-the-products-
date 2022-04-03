@@ -1,0 +1,3 @@
+*Sololearn
+NDG Linux
+GIT
